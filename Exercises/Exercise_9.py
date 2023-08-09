@@ -17,4 +17,4 @@ print("Temp :",psutil.sensors_temperatures(),"\n")
 
 
 
-#for more APIs visit https://pypi.org/project/psutil/
+#for more APIs visit https://pypi.org/project/psutil/ 

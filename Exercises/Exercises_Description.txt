@@ -16,7 +16,7 @@ Python program to count the number 4 in a given list.
 
 #Excercise 2
 
-test whether a passed letter is a vowel or not.
+test whether a passed letter is a vowel or not. 
 
 **************************************************************
 

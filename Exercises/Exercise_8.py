@@ -8,5 +8,5 @@ response_json = response.json()
 price = float(response_json["bpi"]["USD"]["rate_float"])
 print(price)
 
-
+ 
 

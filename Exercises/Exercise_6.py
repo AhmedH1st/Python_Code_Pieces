@@ -14,5 +14,4 @@ Password = input("Enter Your Password : " )
 if login_sys.get(UserName) == Password:
     print("Welcome Sir")
 else:
-    print("Access Denied")
-    
+    print("Access Denied") 
