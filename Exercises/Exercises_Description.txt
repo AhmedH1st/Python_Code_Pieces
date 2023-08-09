@@ -1,0 +1,41 @@
+**************************************************************
+******  This File Descripes Each Excercise in the Repo  ******
+**************************************************************
+
+#Excercise 0
+
+script to Create Multiple .py files depend on user choice
+
+**************************************************************
+
+#Excercise 1
+
+Python program to count the number 4 in a given list.
+
+**************************************************************
+
+#Excercise 2
+
+test whether a passed letter is a vowel or not.
+
+**************************************************************
+
+#Excercise 3
+
+python program to access environment variables
+
+**************************************************************
+
+#Excercise 4
+
+Python program which accepts the radius of a circle from the
+user and compute theb area
+
+**************************************************************
+
+#Excercise 5
+
+Python program that Print the calendar of a given month and year
+
+**************************************************************
+
