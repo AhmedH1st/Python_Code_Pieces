@@ -56,3 +56,9 @@ find Largest element in a List
 Get the current price of Bitcoin
 
 **************************************************************
+
+#Excercise 8
+
+script to print All System Info 
+
+**************************************************************
