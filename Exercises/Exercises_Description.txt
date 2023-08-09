@@ -45,4 +45,14 @@ Python Code that Handles Login System
 
 **************************************************************
 
+#Excercise 7
 
+find Largest element in a List
+
+**************************************************************
+
+#Excercise 8
+
+Get the current price of Bitcoin
+
+**************************************************************
