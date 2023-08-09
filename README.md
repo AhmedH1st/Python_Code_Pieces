@@ -1,0 +1,3 @@
+# Pyhon_Code_Pieces
+## A Repo for Pyhon General Exercises ..
+ Feel free to navigate if you are intersted in learning Pyhon or want to get some ideas
