@@ -1,7 +1,8 @@
 # test whether a passed letter is a vowel or not.
 
 ch = input()
-if (ch.lower() == 'a' or ch.lower() == 'u' or ch.lower() == 'i' or ch.lower() == 'o' or ch.lower() == 'y'):
+ch = ch.lower()
+if (ch == 'a' or ch == 'u' or ch == 'i' or ch == 'o' or ch == 'y'):
     print("VOWEL")
 else:
     print("CONSTANT")
@@ -16,4 +17,5 @@ else:
 
 
 # ch = input()
-# print(isvowel(ch)) 
+# print(isvowel(ch))
+

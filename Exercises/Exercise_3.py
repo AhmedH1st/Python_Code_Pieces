@@ -10,6 +10,5 @@ import os
 
 KEY = input()
 KEY = KEY.upper()
-KEY = KEY
 print(KEY)
 print(os.environ[KEY]) 
