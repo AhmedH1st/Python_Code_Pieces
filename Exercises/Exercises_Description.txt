@@ -16,7 +16,7 @@ Python program to count the number 4 in a given list.
 
 #Excercise 2
 
-test whether a passed letter is a vowel or not. 
+test whether a passed letter is a vowel or not.
 
 **************************************************************
 
@@ -57,8 +57,26 @@ Get the current price of Bitcoin
 
 **************************************************************
 
-#Excercise 8
+#Excercise 9
 
 script to print All System Info 
+
+**************************************************************
+
+#Excercise 10
+
+Script to run favourite websites registered in favourite_websites module 
+
+**************************************************************
+
+#Excercise 11
+
+Script to locate some specific img on screen
+
+**************************************************************
+
+#Excercise 12
+
+Script to 
 
 **************************************************************
