@@ -10,6 +10,8 @@ os.system("git add .")
 os.system('git commit -m "updating repo"')
 os.system('git push')
 
+pyautogui.sleep(5)
+
 pyautogui.typewrite(username)
 pyautogui.press('enter')
 pyautogui.typewrite(password)
