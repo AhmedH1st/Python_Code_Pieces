@@ -101,6 +101,18 @@ Script to install some C++ extensions in VS Code
 
 #Excercise 16
 
- 
+script to get the number of lines&words in a file
+
+**************************************************************
+
+#Excercise 17
+
+Script to write string to a file after creating it
+
+**************************************************************
+
+#Excercise 18
+
+Script to write string to a file after creating it
 
 **************************************************************
