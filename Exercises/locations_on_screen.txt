@@ -1,0 +1,8 @@
+{
+"vs_code_loc": [36,470],
+"extensions_button_loc": [89,303],
+"exporer_button_loc": [88,117],
+"search_bar_loc": [354,141],
+"first_extension_installButton_loc": [397,219],
+"Terminal_loc": [1005,760]
+}
