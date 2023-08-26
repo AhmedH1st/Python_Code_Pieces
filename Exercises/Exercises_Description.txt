@@ -77,6 +77,30 @@ Script to locate some specific img on screen
 
 #Excercise 12
 
-Script to 
+Script to suggest activities for you Once you run
+
+**************************************************************
+
+#Excercise 13
+
+Script to get your IP address
+
+**************************************************************
+
+#Excercise 14
+
+Script to get your geo information
+
+**************************************************************
+
+#Excercise 15
+
+Script to install some C++ extensions in VS Code
+
+**************************************************************
+
+#Excercise 16
+
+Script 
 
 **************************************************************
