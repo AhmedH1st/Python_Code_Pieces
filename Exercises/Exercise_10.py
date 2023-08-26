@@ -5,4 +5,4 @@ import favourite_websites as Fav_Site
 
 
 Fav_Site.firefox('facebook')
-Fav_Site.firefox(Fav_Site.w3schoolLink)
+Fav_Site.firefox(Fav_Site.w3schoolLink) 

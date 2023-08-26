@@ -11,4 +11,4 @@ imgFound = None
 while imgFound is None:
     imgFound = pyautogui.locateOnScreen(imgPath)
 
-print('FOUND')
+print('FOUND') 

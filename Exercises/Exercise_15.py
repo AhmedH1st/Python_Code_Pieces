@@ -68,4 +68,4 @@ pyautogui.typewrite("cmake tools")
 pyautogui.sleep(5)
 
 install()
-reset_search_bar()
+reset_search_bar() 

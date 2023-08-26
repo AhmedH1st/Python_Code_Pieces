@@ -12,4 +12,4 @@ def firefox(website):
     else:
         url = website
 
-    webbrowser.open(url)
+    webbrowser.open(url) 

@@ -5,4 +5,4 @@
 "search_bar_loc": [354,141],
 "first_extension_installButton_loc": [397,219],
 "Terminal_loc": [1005,760]
-}
+} 
