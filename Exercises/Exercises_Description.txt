@@ -113,6 +113,24 @@ Script to write string to a file after creating it
 
 #Excercise 18
 
-Script to write string to a file after creating it
+Script to generate Init Function of GPIO for avr in .c file
+
+**************************************************************
+
+#Excercise 19
+
+Script to open Gmail and convert all emails from unread status to read
+
+**************************************************************
+
+#Excercise 20
+
+Script to fire notificationto system once it run indicating Battery percentage
+
+**************************************************************
+
+#Excercise 21
+
+Script that accept arguments passed to it when fired
 
 **************************************************************
