@@ -135,4 +135,10 @@ Script that accept arguments passed to it when fired
 
 **************************************************************
 
+#Excercise 22
+
+Server script to handle Multiple clients through socket module 
+
+**************************************************************
+
 Py-assistant (under Development)
