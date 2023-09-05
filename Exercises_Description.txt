@@ -141,4 +141,22 @@ Server script to handle Multiple clients through socket module
 
 **************************************************************
 
+#Excercise 23
+
+GUI Basic Button example 
+
+**************************************************************
+
+#Excercise 24
+
+GUI program that asks the user to enter a sentence and return him its reverse 
+
+**************************************************************
+
+#Excercise 25
+
+Desktop Calculator
+
+**************************************************************
+
 Py-assistant (under Development)
